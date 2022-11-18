@@ -1,0 +1,4 @@
+#mapa logs
+logs/
+# mapa docs
+docs/*.txt
